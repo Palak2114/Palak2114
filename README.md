@@ -1,7 +1,6 @@
 
 # 👋 Hi, I'm Palak Verma
 
-![GitHub followers](https://img.shields.io/github/followers/raghvendra-official?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/raghvendra-official?style=social)
 
 ## About Me
 
@@ -11,6 +10,9 @@ I am an enthusiastic ECE student exploring the world of electronics, embedded sy
 - 💬 Ask me about: Digital Electronics, Analog Systems, Communication Systems,Python,MATLAB etc.
 - 📫 How to reach me: [Vermaplk21@gmail.com](mailto:Vermaplk21@gmail.com)
 - 🌐 Portfolio: [yourportfolio.com](http://yourportfolio.com)
+
+
+<img align="left"><img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 ## 🔧 Technologies & Tools
 
@@ -36,7 +38,7 @@ I am an enthusiastic ECE student exploring the world of electronics, embedded sy
 
 
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 ### [Project Name 1](https://github.com/yourusername/projectname1)
 Description of the project and what it does. Key technologies used.
@@ -45,18 +47,16 @@ Description of the project and what it does. Key technologies used.
 Description of the project and what it does. Key technologies used.
 
 ### [Project Name 3](https://github.com/yourusername/projectname3)
-Description of the project and what it does. Key technologies used.
+Description of the project and what it does. Key technologies used. -->
 
 ## 📑 Certifications
 
-### 🐍 Python Programming
-<img src="./.img/python-cert.png" width="300"/>
+## 📑 Certifications
 
-### 📊 MATLAB for Engineers
-<img src="./.img/matlab-cert.png" width="300"/>
+- [🐍 Python Programming](./.img/python-cert.png)
+- [📊 MATLAB for Engineers](./.img/matlab-cert.png)
+- [🤖 AI Internship Experience](./.img/ai-internship-cert.png)
 
-### 🤖 AI Internship Experience
-<img src="./.img/ai-internship-cert.png" width="300"/>
 
 
 ## 📫 Connect with Me
