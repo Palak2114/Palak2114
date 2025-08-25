@@ -7,9 +7,9 @@
 I am an enthusiastic ECE student exploring the world of electronics, embedded systems, and communication technology. I enjoy designing and developing hardware-based solutions that solve real-world problems.
 
 - 🌱 Currently exploring :the fascinating world of circuits, microcontrollers, and communication systems to build a strong foundation in electronics.
-- 💬 Ask me about: Digital Electronics, Analog Systems, Communication Systems,Python,MATLAB etc.
+- 💬 Ask me about: Verilog, Digital Electronics, Analog Systems, Communication Systems,Python,MATLAB etc.
 - 📫 How to reach me: [Vermaplk21@gmail.com](mailto:Vermaplk21@gmail.com)
-- 🌐 Portfolio: [yourportfolio.com](http://yourportfolio.com)
+
 
 
 <img align="left"><img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
@@ -28,6 +28,9 @@ I am an enthusiastic ECE student exploring the world of electronics, embedded sy
 
 
 ### Tools
+
+![Cadence](https://img.shields.io/badge/-Cadence-000?&logo=cadence&logoColor=white)
+![Xilinx](https://img.shields.io/badge/-Xilinx-000?&logo=xilinx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=Github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
