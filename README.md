@@ -59,11 +59,10 @@ Developed an automated traffic signal control system using **NI LabVIEW**, with 
 Currently developing an AI- and IoT-driven system to secure airspace by continuously monitoring unauthorized UAVs through **RF signal analysis, acoustic detection, and camera-based visual confirmation**. Integrated **Raspberry Pi, RTL-SDR, directional antenna, camera, and 4G module** for real-time data collection and response. The system autonomously triggers alerts or activates a **directional RF jammer** to block drone–controller communication, ensuring rapid and controlled neutralization of aerial threats.  
 **Key Technologies:** Raspberry Pi, RTL-SDR, YOLO-Lite, OpenCV, Acoustic Sensing, RF Jammer  
 
-- 📊 **MATLAB for Engineers**  
-  [View Certificate](./certificates/matlab-cert.pdf)  
+- # 🚀 Certificates
 
 - 🐍 **Python for Beginners**  
-  [View Certificate](./certificates/python-cert.pdf)  
+  [View Certificate](Python Certificate.pdf)  
 
 - 🏅 **NIELIT Certification**  
   [View Certificate](2025_25192_Cert_Palak_Verma_83820a0bd8a43216b004880317ae6ecf.pdf)  
