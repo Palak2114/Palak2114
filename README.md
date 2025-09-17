@@ -62,10 +62,8 @@ Currently developing an AI- and IoT-driven system to secure airspace by continuo
 - # 🚀 Certificates
 
 - 🐍 **Python for Beginners**  
-  [View Certificate](Palak2114
-/Python Certificate.pdf)  
-  Palak2114
-/Python Certificate.pdf
+  [View Certificate](Python_Certificate.pdf)  
+
 
 
 - 🏅 **NIELIT Certification**  
