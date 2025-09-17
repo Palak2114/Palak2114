@@ -41,24 +41,32 @@ I am an enthusiastic ECE student exploring the world of electronics, embedded sy
 
 
 
-<!-- ## 🚀 Projects
+# 🚀 Projects
 
-### [Project Name 1](https://github.com/yourusername/projectname1)
-Description of the project and what it does. Key technologies used.
+### 🔐 [Password Security System](#)
+Conceptualized a robust digital access control system simulation using **MULTISIM**, integrating combinational and sequential logic for enhanced accuracy. Implemented password-based authentication to ensure security and reliable user verification.  
+**Key Technologies:** MULTISIM, Digital Logic Design  
 
-### [Project Name 2](https://github.com/yourusername/projectname2)
-Description of the project and what it does. Key technologies used.
+---
 
-### [Project Name 3](https://github.com/yourusername/projectname3)
-Description of the project and what it does. Key technologies used. -->
+### 🚦 [Traffic Light Control System](#)
+Developed an automated traffic signal control system using **NI LabVIEW**, with programmable timing and interactive user interface features. Simulated real-time traffic scenarios and optimized signal timings to improve flow efficiency and reduce congestion.  
+**Key Technologies:** NI LabVIEW, Control Systems, Simulation  
 
-## 📑 Certifications
+---
 
-## 📑 Certifications
+### 🛰️ [AEGIS: Anti-Drone Intrusion Detection & Neutralization System](#)
+Currently developing an AI- and IoT-driven system to secure airspace by continuously monitoring unauthorized UAVs through **RF signal analysis, acoustic detection, and camera-based visual confirmation**. Integrated **Raspberry Pi, RTL-SDR, directional antenna, camera, and 4G module** for real-time data collection and response. The system autonomously triggers alerts or activates a **directional RF jammer** to block drone–controller communication, ensuring rapid and controlled neutralization of aerial threats.  
+**Key Technologies:** Raspberry Pi, RTL-SDR, YOLO-Lite, OpenCV, Acoustic Sensing, RF Jammer  
 
-- [🐍 Python Programming](./.img/python-cert.png)
-- [📊 MATLAB for Engineers](./.img/matlab-cert.png)
-- [🤖 AI Internship Experience](./.img/ai-internship-cert.png)
+- 📊 **MATLAB for Engineers**  
+  [View Certificate](./certificates/matlab-cert.pdf)  
+
+- 🐍 **Python for Beginners**  
+  [View Certificate](./certificates/python-cert.pdf)  
+
+- 🏅 **NIELIT Certification**  
+  [View Certificate](./certificates/nielit-cert.pdf)  
 
 
 
