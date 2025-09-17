@@ -66,7 +66,7 @@ Currently developing an AI- and IoT-driven system to secure airspace by continuo
   [View Certificate](./certificates/python-cert.pdf)  
 
 - 🏅 **NIELIT Certification**  
-  [View Certificate](./certificates/nielit-cert.pdf)  
+  [View Certificate](2025_25192_Cert_Palak_Verma_83820a0bd8a43216b004880317ae6ecf.pdf)  
 
 
 
