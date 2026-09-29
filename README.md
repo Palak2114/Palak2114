@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am an enthusiastic ECE student exploring the world of electronics, embedded systems, and communication technology. I enjoy designing and developing hardware-based solutions that solve real-world problems.
+I am an enthusiastic ECE graduate exploring the world of electronics, embedded systems, and communication technology. I enjoy designing and developing hardware-based solutions that solve real-world problems.
 
 - 🌱 Currently exploring :the fascinating world of circuits, microcontrollers, and communication systems to build a strong foundation in electronics.
 - 💬 Ask me about: Verilog, Digital Electronics, Analog Systems, Communication Systems,Python,MATLAB etc.
@@ -56,7 +56,7 @@ Developed an automated traffic signal control system using **NI LabVIEW**, with 
 ---
 
 ### 🛰️ [AEGIS: Anti-Drone Intrusion Detection & Neutralization System](#)
-Currently developing an AI- and IoT-driven system to secure airspace by continuously monitoring unauthorized UAVs through **RF signal analysis, acoustic detection, and camera-based visual confirmation**. Integrated **Raspberry Pi, RTL-SDR, directional antenna, camera, and 4G module** for real-time data collection and response. The system autonomously triggers alerts or activates a **directional RF jammer** to block drone–controller communication, ensuring rapid and controlled neutralization of aerial threats.  
+ Developed an AI- and IoT-driven system to secure airspace by continuously monitoring unauthorized UAVs through **RF signal analysis, acoustic detection, and camera-based visual confirmation**. Integrated **Raspberry Pi, RTL-SDR, directional antenna, camera, and 4G module** for real-time data collection and response. The system autonomously triggers alerts or activates a **directional RF jammer** to block drone–controller communication, ensuring rapid and controlled neutralization of aerial threats.  
 **Key Technologies:** Raspberry Pi, RTL-SDR, YOLO-Lite, OpenCV, Acoustic Sensing, RF Jammer  
 
 - # 🚀 Certificates
